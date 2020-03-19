@@ -114,7 +114,7 @@ private int amount,budget;
              
              budget = 50000;
         System.out.println("Congratulations! You have won a Gift Check worth P50,0000. Please choose an item from Mystery Box A");
-        System.out.println("Mystery Box A");
+        System.out.println("Mystery Box B");
 			System.out.println(" ____________________________________________");
 			System.out.println("|Item                       | Worth |");
 			System.out.println("|___________________________________|");
